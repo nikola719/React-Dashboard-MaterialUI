@@ -1,8 +1,8 @@
-## [Nikola Kit - Admin Dashboard]()
+## [Nikola Kit - Admin Dashboard](https://react-dashboard-material-ui.vercel.app/)
 
-[![React Material Dashboard]]()
+[![React Material Dashboard]](https://react-dashboard-material-ui.vercel.app/)
 
-> Free React Dashboard made with [Material UI's](https://material-ui.com/?ref=devias-io) components, [React](https://reactjs.org/?ref=devias-io) and of course [create-react-app](https://facebook.github.io/create-react-app/?ref=devias-io) to boost your app development process! We'll launch a pro version soon, so if you are interested subscribe to our personal emailing list on [https://devias.io/](https://devias.io/)
+> Free React Dashboard made with [Material UI's](https://material-ui.com/?ref=devias-io) components, [React](https://react-dashboard-material-ui.vercel.app/) and of course [create-react-app](https://react-dashboard-material-ui.vercel.app/) to boost your app development process! We'll launch a pro version soon, so if you are interested subscribe to our personal emailing list on (nkjanko776@gmail.com)
 
 ## Upgrade to PRO Version
 
@@ -19,13 +19,13 @@ We also have a pro version of this product which bundles even more pages and com
 
 ## Demo
 
-- [Dashboard Page]
-- [Users Page]
-- [Products Page]
-- [Register Page]
-- [Login Page]
-- [Account Page]
-- [Settings Page]
+- [Dashboard Page](https://react-dashboard-material-ui.vercel.app/app/dashboard)
+- [Users Page](https://react-dashboard-material-ui.vercel.app/app/customers)
+- [Products Page](https://react-dashboard-material-ui.vercel.app/app/products)
+- [Register Page](https://react-dashboard-material-ui.vercel.app/register)
+- [Login Page]()https://react-dashboard-material-ui.vercel.app/login
+- [Account Page](https://react-dashboard-material-ui.vercel.app/app/account)
+- [Settings Page](https://react-dashboard-material-ui.vercel.app/app/settings)
 
 ## Quick start
 
