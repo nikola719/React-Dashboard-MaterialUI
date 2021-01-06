@@ -16,7 +16,7 @@ import FacebookIcon from 'src/icons/Facebook';
 import GoogleIcon from 'src/icons/Google';
 import Page from 'src/components/Page';
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   root: {
     backgroundColor: theme.palette.background.dark,
     height: '100%',
@@ -151,7 +151,8 @@ const LoginView = () => {
                   </Button>
                 </Box>
                 <Typography color="textSecondary" variant="body1">
-                  Don&apos;t have an account?{' '}
+                  Don&apos;t have an account?
+                  {' '}
                   <Link component={RouterLink} to="/register" variant="h6">
                     Sign up
                   </Link>
